@@ -1,3 +1,10 @@
+!!! IMPORTANT !!!
+
+To add more tickers head over to config_tickers. NeurIPS 2018 papers have been done. I will make a checklist soon
+
+
+
+
 # FinRL: Financial Reinforcement Learning [![twitter][1.1]][1] [![facebook][1.2]][2] [![google+][1.3]][3] [![linkedin][1.4]][4]
 
 [1.1]: http://www.tensorlet.org/wp-content/uploads/2021/01/button_twitter_22x22.png
